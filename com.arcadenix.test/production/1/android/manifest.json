@@ -1,12 +1,12 @@
 {
-  "id": "71bad2af-cb5c-74a1-a542-54283f602ac0",
-  "createdAt": "2026-09-07T15:53:52.293Z",
+  "id": "34f8ce4c-260d-b16e-f214-e8aea12dc385",
+  "createdAt": "2026-09-07T16:01:20.727Z",
   "runtimeVersion": "1",
   "launchAsset": {
-    "hash": "a2yFL9QJwg62jbIKawsBxv5miMpkhLHEAit4BPopSHE",
-    "key": "3768920bbd418a0981b214285033da25",
+    "hash": "jzdLPKKsDYUqozcEACYbvXMqQnyCkSO1AJCX0Mf3jMw",
+    "key": "bff811a2fdf9321634fda3d65ba693a6",
     "contentType": "application/javascript",
-    "url": "https://arcadenix-ota.github.io/ota.test/store/6b6c852fd409c20eb68db20a6b0b01c6fe6688ca6484b1c4022b7804fa294871.js"
+    "url": "https://arcadenix-ota.github.io/ota.test/store/8f374b3ca2ac0d852aa3370400261bbd732a427c829123b5009097d0c7f78ccc.js"
   },
   "assets": [
     {
@@ -603,13 +603,6 @@
       "contentType": "image/png",
       "fileExtension": ".png",
       "url": "https://arcadenix-ota.github.io/ota.test/store/ebe9174a29a3b0ded0b271d1b8a3b20827f3bfb613ccc927a0aa14e40f0a6a67.png"
-    },
-    {
-      "hash": "dMZAR-tVexNBu6eigx7t3p3bcF5kUamtn1VSv1WPE94",
-      "key": "4e3f888fc8475f69fd5fa32f1ad5216a",
-      "contentType": "image/png",
-      "fileExtension": ".png",
-      "url": "https://arcadenix-ota.github.io/ota.test/store/74c64047eb557b1341bba7a2831eedde9ddb705e6451a9ad9f5552bf558f13de.png"
     }
   ],
   "metadata": {},
