@@ -1,0 +1,700 @@
+{
+  "id": "920b800a-fdb0-319e-b06a-7aa50b9b11c3",
+  "createdAt": "2026-09-07T16:21:55.791Z",
+  "runtimeVersion": "2",
+  "launchAsset": {
+    "hash": "j253eiUvg4ilNmtISobmSSg5OoryDBW8Knb6vnjzfDw",
+    "key": "782091e520d7e59b558aa6f807f49d8f",
+    "contentType": "application/javascript",
+    "url": "https://arcadenix-ota.github.io/ota.test/store/8f6e777a252f8388a5366b484a86e64928393a8af20c15bc2a76fabe78f37c3c.js"
+  },
+  "assets": [
+    {
+      "hash": "zuNLHTkeS3ewe1FPLJyY-y9gtJ1JNv3hB9ISzOrF4BI",
+      "key": "034de38c65e202c1cc838e7d014385fd",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/cee34b1d391e4b77b07b514f2c9c98fb2f60b49d4936fde107d212cceac5e012.ttf"
+    },
+    {
+      "hash": "jQJI5BaU_dh1283oWe4brlmC7P3Gx-XkUbSJUNKbqVo",
+      "key": "f98cd910425bf727bd54ce767a9b6884",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/8d0248e41694fdd875dbcde859ee1bae5982ecfdc6c7e5e451b48950d29ba95a.ttf"
+    },
+    {
+      "hash": "i2Gkx-9w3JJ1PwSUl2SC9m_UFQ7CPfx3KrZeEDc6-lU",
+      "key": "778ffc9fe8773a878e9c30a6304784de",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/8b61a4c7ef70dc92753f0494976482f66fd4150ec23dfc772ab65e10373afa55.png"
+    },
+    {
+      "hash": "kGZm3WiTRq2iMs42ia3vkHtCV_obWT8DY40rlJf2SIQ",
+      "key": "c79c3606a1cf168006ad3979763c7e0c",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/906666dd689346ada232ce3689adef907b4257fa1b593f03638d2b9497f64884.png"
+    },
+    {
+      "hash": "_6fuRbdkBbpzkhSVAI99aMneY5X0tpQdsGNGX244IyA",
+      "key": "02bc1fa7c0313217bde2d65ccbff40c9",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ffa7ee45b76405ba73921495008f7d68c9de6395f4b6941db063465f6e382320.png"
+    },
+    {
+      "hash": "hM9es7ICUPaeDkczvrTaX0F_BoKJKlrRteYlcHU8IbE",
+      "key": "35ba0eaec5a4f5ed12ca16fabeae451d",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/84cf5eb3b20250f69e0e4733beb4da5f417f0682892a5ad1b5e62570753c21b1.png"
+    },
+    {
+      "hash": "mtuMXvypMuK3MrKT2oE70uMZUiYwVrzp4lF_7A8LanY",
+      "key": "0a328cd9c1afd0afe8e3b1ec5165b1b4",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/9adb8c5efca932e2b732b293da813bd2e31952263056bce9e2517fec0f0b6a76.png"
+    },
+    {
+      "hash": "yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU",
+      "key": "3cd68ccdb8938e3711da2e8831b85493",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/c86bb485eee687e06c500fc4234f51a6784b4530c2ae11d0c76481110bce3105.png"
+    },
+    {
+      "hash": "0Dpc16Zu8QxRR5FvnVh4stCgpa1G9AWjHNmWfvqlWv0",
+      "key": "61ca7e64b7d605716c57706cef640b9a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/d03a5cd7a66ef10c5147916f9d5878b2d0a0a5ad46f405a31cd9967efaa55afd.png"
+    },
+    {
+      "hash": "q1YT0s5w-mfFkm6DE1NmSUUZn8GV-m_nbF_jzsRS4xo",
+      "key": "aff2c65b39a296d4f7e96d0f58169170",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ab5613d2ce70fa67c5926e831353664945199fc195fa6fe76c5fe3cec452e31a.png"
+    },
+    {
+      "hash": "xOVOagp95jaqFTN4-8YupKQWlb_t-Af5Dfexj_1zP2c",
+      "key": "d8e7601e3df962f83c62371ac14964d8",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/c4e54e6a0a7de636aa153378fbc62ea4a41695bfedf807f90df7b18ffd733f67.png"
+    },
+    {
+      "hash": "yGu0he7mh-BsUA_EI09RpnhLRTDCrhHQx2SBEQvOMQU",
+      "key": "3cd68ccdb8938e3711da2e8831b85493",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/c86bb485eee687e06c500fc4234f51a6784b4530c2ae11d0c76481110bce3105.png"
+    },
+    {
+      "hash": "IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw",
+      "key": "0747a1317bbe9c6fc340b889ef8ab3ae",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/2325c53a73e54c438cbbc60dffdd8b513d471ba42e2f56713ef404b95e0ca1fc.png"
+    },
+    {
+      "hash": "sbwYEMoj4sOM12lxxDWR1yYWEGEkDYt5KwV1cZbdtSg",
+      "key": "d84e297c3b3e49a614248143d53e40ca",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/b1bc1810ca23e2c38cd76971c43591d726161061240d8b792b05757196ddb528.png"
+    },
+    {
+      "hash": "y9-SE-VfZcSNB2rNhCO3ya7k8bgRAf9slaOMTNioZGE",
+      "key": "1190ab078c57159f4245a328118fcd9a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/cbdf9213e55f65c48d076acd8423b7c9aee4f1b81101ff6c95a38c4cd8a86461.png"
+    },
+    {
+      "hash": "0FydMNefRaeOVYWi5-xnxqBqiD3ZE34dUFnoyHszznY",
+      "key": "78c625386b4d0690b421eb0fc78f7b9c",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/d05c9d30d79f45a78e5585a2e7ec67c6a06a883dd9137e1d5059e8c87b33ce76.png"
+    },
+    {
+      "hash": "IyXFOnPlTEOMu8YN_92LUT1HG6QuL1ZxPvQEuV4Mofw",
+      "key": "0747a1317bbe9c6fc340b889ef8ab3ae",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/2325c53a73e54c438cbbc60dffdd8b513d471ba42e2f56713ef404b95e0ca1fc.png"
+    },
+    {
+      "hash": "unIvskv_CkxS5lbN8gXerFxd-F5briv20wcTvVDG1fc",
+      "key": "4403c6117ec30c859bc95d70ce4a71d3",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ba722fb24bff0a4c52e656cdf205deac5c5df85e5bae2bf6d30713bd50c6d5f7.png"
+    },
+    {
+      "hash": "UwD1C-NlnRfYzuho7E5sDT9OiZRP1YmdPCD2p2egRfU",
+      "key": "069d99eb1fa6712c0b9034a58c6b57dd",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/5300f50be3659d17d8cee868ec4e6c0d3f4e89944fd5899d3c20f6a767a045f5.png"
+    },
+    {
+      "hash": "bI8Rv9HH4idp3BNcFuzQ4FO7VVVNqIuWEdnPcdEhNvE",
+      "key": "c3273c9e5321f20d1e42c2efae2578c4",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6c8f11bfd1c7e22769dc135c16ecd0e053bb55554da88b9611d9cf71d12136f1.png"
+    },
+    {
+      "hash": "XQdeDCh8T0RBtbXI_H6lzSfBG7YX7OoJdVlVvLGIkIM",
+      "key": "286d67d3f74808a60a78d3ebf1a5fb57",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/5d075e0c287c4f4441b5b5c8fc7ea5cd27c11bb617ecea09755955bcb1889083.png"
+    },
+    {
+      "hash": "CKnVtRPPlH4i7egemoQ72Nd2OmNETNIUhL_edmLMZUM",
+      "key": "3f78af31cca60105799838a1a7a59fbd",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/08a9d5b513cf947e22ede81e9a843bd8d7763a63444cd21484bfde7662cc6543.ttf"
+    },
+    {
+      "hash": "FvkimFh7qytGm8E8DfxtXRcbyhC60MkFOtFrwCO_cX0",
+      "key": "31b5ffea3daddc69dd01a1f3d6cf63c5",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/16f92298587bab2b469bc13c0dfc6d5d171bca10bad0c9053ad16bc023bf717d.ttf"
+    },
+    {
+      "hash": "pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY",
+      "key": "140c53a7643ea949007aa9a282153849",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/a5caeb4d395c5e32f1d5a30acb382aebc664f1badfd149319907f2215e4e3e26.ttf"
+    },
+    {
+      "hash": "AriOrZGt5XENfKGO20Omllpx2TcywG8pDMB6bdJJ6Yc",
+      "key": "ca4b48e04dc1ce10bfbddb262c8b835f",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/02b88ead91ade5710d7ca18edb43a6965a71d93732c06f290cc07a6dd249e987.ttf"
+    },
+    {
+      "hash": "lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA",
+      "key": "b49ae8ab2dbccb02c4d11caaacf09eab",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/94dab9f1d5b13ea0769d124a2da0d02433f3b99d6dea5a07c0446a77158100c0.ttf"
+    },
+    {
+      "hash": "qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg",
+      "key": "b06871f281fee6b241d60582ae9369b9",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8.ttf"
+    },
+    {
+      "hash": "xlG4pn0xkyBvYiw8Ow-8pKLycnEIxCErUsHiouhMmzE",
+      "key": "1f77739ca9ff2188b539c36f30ffa2be",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/c651b8a67d3193206f622c3c3b0fbca4a2f2727108c4212b52c1e2a2e84c9b31.ttf"
+    },
+    {
+      "hash": "PQavHzHNg6znomWgFLj7Xe4Vdw7KyPelVVUZDmJ-A8I",
+      "key": "605ed7926cf39a2ad5ec2d1f9d391d3d",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/3d06af1f31cd83ace7a265a014b8fb5dee15770ecac8f7a55555190e627e03c2.ttf"
+    },
+    {
+      "hash": "BvTQCSPqJGl99d8LkphBdZkdi9JXdqAtUxu0AeOT7EI",
+      "key": "3b89dd103490708d19a95adcae52210e",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/06f4d00923ea24697df5df0b92984175991d8bd25776a02d531bb401e393ec42.ttf"
+    },
+    {
+      "hash": "ZPn7YjaB8RImHpovl4JngkOfOSXeqPRKV9Hk25W6bP0",
+      "key": "370dd5af19f8364907b6e2c41f45dbbf",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/64f9fb623681f112261e9a2f97826782439f3925dea8f44a57d1e4db95ba6cfd.ttf"
+    },
+    {
+      "hash": "MfCZwT9uS6BfG0cb8XDLVJMklHQiKRc3LePKXPKeaho",
+      "key": "adec7d6f310bc577f05e8fe06a5daccf",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/31f099c13f6e4ba05f1b471bf170cb5493249474222917372de3ca5cf29e6a1a.ttf"
+    },
+    {
+      "hash": "vIRLWwLT862rtRTeTgwCCCUtMSNBO9A_Yof6RGrO6Fk",
+      "key": "56c8d80832e37783f12c05db7c8849e2",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/bc844b5b02d3f3adabb514de4e0c0208252d3123413bd03f6287fa446acee859.ttf"
+    },
+    {
+      "hash": "fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal-JM-Y",
+      "key": "e20945d7c929279ef7a6f1db184a4470",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/7e1dd03dd4ce90b658052554cd7459df16716717389a552fa4c6d56a5f8933e6.ttf"
+    },
+    {
+      "hash": "-iq30lV4GbK_5QCeRoRO-nFwzxd753NdQ6oqwSlfHVQ",
+      "key": "b4eb097d35f44ed943676fd56f6bdc51",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/fa2ab7d2557819b2bfe5009e46844efa7170cf177be7735d43aa2ac1295f1d54.ttf"
+    },
+    {
+      "hash": "YeirpaTpgf4iz3yOi82-oAR251xiw38Bv37jM2HWhCg",
+      "key": "6e435534bd35da5fef04168860a9b8fa",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/61e8aba5a4e981fe22cf7c8e8bcdbea00476e75c62c37f01bf7ee33361d68428.ttf"
+    },
+    {
+      "hash": "7xSfCL3S_wmk4shXNHa3sPP7sVtiOVSt5ZiZ5xdb7do",
+      "key": "4e85bc9ebe07e0340c9c4fc2f6c38908",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ef149f08bdd2ff09a4e2c8573476b7b0f3fbb15b623954ade59899e7175bedda.ttf"
+    },
+    {
+      "hash": "m8TZ9emU53S9w--amofadJr19QuGFHPvfRzD1vgikmc",
+      "key": "871378c6eab492a3e689a9385dc45a12",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/9bc4d9f5e994e774bdc3ef9a9a87da749af5f50b861473ef7d1cc3d6f8229267.ttf"
+    },
+    {
+      "hash": "P1Ad2wXHCCm7tRz-nKn_9X854GBFfCV7PM8l33Z_CHA",
+      "key": "d2285965fe34b05465047401b8595dd0",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/3f501ddb05c70829bbb51cfe9ca9fff57f39e060457c257b3ccf25df767f0870.ttf"
+    },
+    {
+      "hash": "3Y7kA7vL9eWLd9ykrAPrr6E6KEo9h9jqnKSQQ1qG-kg",
+      "key": "1681f34aaca71b8dfb70756bca331eb2",
+      "contentType": "font/ttf",
+      "fileExtension": ".ttf",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/dd8ee403bbcbf5e58b77dca4ac03ebafa13a284a3d87d8ea9ca490435a86fa48.ttf"
+    },
+    {
+      "hash": "E3wNcJ9Sw-20m0Ck7HR0h5UF6OBsbCIOT68Xh7vLKgU",
+      "key": "827068eaa98f10ccaa5a1d759edd8bb7",
+      "contentType": "application/octet-stream",
+      "fileExtension": ".db",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/137c0d709f52c3edb49b40a4ec7474879505e8e06c6c220e4faf1787bbcb2a05.db"
+    },
+    {
+      "hash": "Nk--KzJtPGmTwBOofvR_OWM6UUgcIcZOvv2WCcyd6fg",
+      "key": "dba6cb696867a0a2af095527e0d0dfa6",
+      "contentType": "application/octet-stream",
+      "fileExtension": ".db",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/364fbe2b326d3c6993c013a87ef47f39633a51481c21c64ebefd9609cc9de9f8.db"
+    },
+    {
+      "hash": "b7Pixp3J6m3NWfk29YV5oeAUNK0qYEZba8D1h5rG0kM",
+      "key": "4481a4293166647806844c3dc3f333b6",
+      "contentType": "application/octet-stream",
+      "fileExtension": ".db",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6fb3e2c69dc9ea6dcd59f936f58579a1e01434ad2a60465b6bc0f5879ac6d243.db"
+    },
+    {
+      "hash": "pNlU0fUxJ2_oTxRMDlbbnTq1FhoujHue_MW91rO8CHE",
+      "key": "f6e0fc79949573fa74076cf710f600d9",
+      "contentType": "application/octet-stream",
+      "fileExtension": ".db",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/a4d954d1f531276fe84f144c0e56db9d3ab5161a2e8c7b9efcc5bdd6b3bc0871.db"
+    },
+    {
+      "hash": "rdqofFblEhCwerM3jPRo09jKK1H5XNsftuIv4VtAyBs",
+      "key": "7e860f8ddafd01aab2c9089158688332",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/addaa87c56e51210b07ab3378cf468d3d8ca2b51f95cdb1fb6e22fe15b40c81b.png"
+    },
+    {
+      "hash": "CJE94lRosVimxoR41iLaM471MMXBWjNdo8UV5CzBa78",
+      "key": "bae0a18d2a9e2ba949a78fe2ae96b0a2",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/08913de25468b158a6c68478d622da338ef530c5c15a335da3c515e42cc16bbf.png"
+    },
+    {
+      "hash": "bhsNda-MhzD0zdl3sP0n4x7FVoPzNFuzbUyelWEbWqM",
+      "key": "5ee5c91a03745eb73be4cea3275635c8",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6e1b0d75af8c8730f4cdd977b0fd27e31ec55683f3345bb36d4c9e95611b5aa3.png"
+    },
+    {
+      "hash": "XlC0BZfYOzy5xU47YkrRpDwvNowMAp9rLnHSUc7khi8",
+      "key": "ae8389c2bd87d38fea656932bff17ca7",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/5e50b40597d83b3cb9c54e3b624ad1a43c2f368c0c029f6b2e71d251cee4862f.png"
+    },
+    {
+      "hash": "buHkDjsAsF1o8i-CHF9ooTUx9g8chfmy_wutJ0ulOGc",
+      "key": "65d49dd606949f01f9b6bdac06c1f6ee",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6ee1e40e3b00b05d68f22f821c5f68a13531f60f1c85f9b2ff0bad274ba53867.png"
+    },
+    {
+      "hash": "7dXJZUmo2c6GcJtcm0Qzom6tjUTMcn946YwvxAzHuWY",
+      "key": "09ca14b0751bd816ae16d85b0020fe1d",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/edd5c96549a8d9ce86709b5c9b4433a26ead8d44cc727f78e98c2fc40cc7b966.png"
+    },
+    {
+      "hash": "cc3j-EjRMtpomgb5nvRuB5ZDMQTeZP1THfomEIq2jes",
+      "key": "d1d8db7254c53b3f954676b73836b631",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/71cde3f848d132da689a06f99ef46e0796433104de64fd531dfa26108ab68deb.png"
+    },
+    {
+      "hash": "YOyfNWQViiz3SvI_kDVG8K99ID0FIhquF7_IcwxLLTQ",
+      "key": "ddedce285b47356392ed55b2b92aa1c7",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/60ec9f3564158a2cf74af23f903546f0af7d203d05221aae17bfc8730c4b2d34.png"
+    },
+    {
+      "hash": "EqRVfB6S5tfwHiLCCADLHSZqosIo4gZ4IFpS_S7nN-4",
+      "key": "041a02bc95d0f1385577bd30f7f31e41",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/12a4557c1e92e6d7f01e22c20800cb1d266aa2c228e20678205a52fd2ee737ee.png"
+    },
+    {
+      "hash": "KdOAEmN-XzZu8akdTSbcykhdNbjV3FOMsHosvdJ1yWU",
+      "key": "b05a140ffaef854ad2d1021dace832cd",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/29d38012637e5f366ef1a91d4d26dcca485d35b8d5dc538cb07a2cbdd275c965.png"
+    },
+    {
+      "hash": "d4T2Wydj_Ai5qbibzGfpcPUBOhfs8mgNpClmIiZ1DhU",
+      "key": "0499f69d8d1d7456881934ec79aefc1e",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/7784f65b2763fc08b9a9b89bcc67e970f5013a17ecf2680da429662226750e15.png"
+    },
+    {
+      "hash": "mjVYrEQWWAz1tbJQ2WyLIML0lEeTSXmcU7QMQhP4iTM",
+      "key": "3acb26304134263160581da825e10a87",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/9a3558ac4416580cf5b5b250d96c8b20c2f494479349799c53b40c4213f88933.png"
+    },
+    {
+      "hash": "uFHnUqAth-Djw90-hnxWZYwnVUDL99Dn2_mJAVbrEsE",
+      "key": "80935d068850e2f455bdc5098b37f54a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/b851e752a02d87e0e3c3dd3e867c56658c275540cbf7d0e7dbf9890156eb12c1.png"
+    },
+    {
+      "hash": "L7Php-OdTrYtikjR46KZx96WiEK1dzQVSbsKwgIL8ps",
+      "key": "40b2cda4d82f59dcf90c15a0256375fe",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/2fb3e1a7e39d4eb62d8a48d1e3a299c7de968842b577341549bb0ac2020bf29b.png"
+    },
+    {
+      "hash": "YUZG9pq_AHwbGPEDqqYPnYidIkoCidaLZcyoNoVir5Y",
+      "key": "867345db803c6ff69057393cf7c28f0d",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/614646f69abf007c1b18f103aaa60f9d889d224a0289d68b65cca8368562af96.png"
+    },
+    {
+      "hash": "iuwO9MQ0qkB0L7ghZZAbX40RSTasSlJnIhvt6D1VcaQ",
+      "key": "cd361aadb3cb2e26e574fc56f3ea9942",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/8aec0ef4c434aa40742fb82165901b5f8d114936ac4a5267221bede83d5571a4.png"
+    },
+    {
+      "hash": "QNi27AfvmEYaH3k_2NBJovHrUWAdafo3qx9lpMuOcT4",
+      "key": "2bcce0b7bf54a5895461fcccafdc99a0",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/40d8b6ec07ef98461a1f793fd8d049a2f1eb51601d69fa37ab1f65a4cb8e713e.png"
+    },
+    {
+      "hash": "HCxNiZKr7-czGIkCRNdYNoawC_VG0H_rvjmDIOCqv5w",
+      "key": "29c9659fd887382c5acc650987a4e125",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/1c2c4d8992abefe73318890244d7583686b00bf546d07febbe398320e0aabf9c.png"
+    },
+    {
+      "hash": "0JsdSHLlWlN5Xi3Wz3I4QuwGZpO_yulxDwBy7vOP99E",
+      "key": "c36ebc90683a75c5c26ce4e7662b4832",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/d09b1d4872e55a53795e2dd6cf723842ec066693bfcae9710f0072eef38ff7d1.png"
+    },
+    {
+      "hash": "vwgPhYgjhW8rCT3iwAaUTRIjRRR79IfJ2M8UUS9N0Vg",
+      "key": "0d8842a64198c7e93868ea86cb1768ba",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/bf080f858823856f2b093de2c006944d122345147bf487c9d8cf14512f4dd158.png"
+    },
+    {
+      "hash": "TYxS93SopX4pBYsZUCUhPbZ_wDjhRjnr0lw7c-GmEBw",
+      "key": "b6c274dbf914ca09f1c7f60dc421ab9a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/4d8c52f774a8a57e29058b195025213db67fc038e14639ebd25c3b73e1a6101c.png"
+    },
+    {
+      "hash": "1YK2TeJ1Ickp5bwI279qZWU9-CLVtUgZ-rNrcHVwdVQ",
+      "key": "ef2457cf5d2e790666718ab28dffc153",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/d582b64de27521c929e5bc08dbbf6a65653df822d5b54819fab36b7075707554.png"
+    },
+    {
+      "hash": "2icgAMcQD5YqHPDq3_X0mNlr2fLpnhwrHGIo6WoFK_o",
+      "key": "2f8407ba6f76971606c798669f069c4a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/da272000c7100f962a1cf0eadff5f498d96bd9f2e99e1c2b1c6228e96a052bfa.png"
+    },
+    {
+      "hash": "fXq0Ao5mKbLQu5KezC5KsE1NxO8se0WjvJcmGtDKYKY",
+      "key": "b4f93ce3ef062c4277df8a47c0901d61",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/7d7ab4028e6629b2d0bb929ecc2e4ab04d4dc4ef2c7b45a3bc97261ad0ca60a6.png"
+    },
+    {
+      "hash": "8qikPWviL_H2r3c-vagXHdLN1yUFqYpyYnnbNr8uToM",
+      "key": "29ea4279e90c6625de0a5a3ad357a8f4",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/f2a8a43d6be22ff1f6af773ebda8171dd2cdd72505a98a726279db36bf2e4e83.png"
+    },
+    {
+      "hash": "kmpV3STpjwsF6eLEjo678qQ0oNmP2rXeVAFNJulUlZI",
+      "key": "dae5826b1b50ee608c3283f529ce5307",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/926a55dd24e98f0b05e9e2c48e8ebbf2a434a0d98fdab5de54014d26e9549592.png"
+    },
+    {
+      "hash": "lDwzYd971uoRDrJbm-s39ZrGaROlDY9meANCF0mEhR0",
+      "key": "af2e2ae39b3255b23b56b87b921d46c3",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/943c3361df7bd6ea110eb25b9beb37f59ac66913a50d8f66780342174984851d.png"
+    },
+    {
+      "hash": "UHSttqbLBiE9WsBkJ0bA-K0g6IfTNad_0E2eRLTXJbk",
+      "key": "267b5a5372761c3b990f95e293e6c0e6",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/5074adb6a6cb06213d5ac0642746c0f8ad20e887d335a77fd04d9e44b4d725b9.png"
+    },
+    {
+      "hash": "GPPGSEBewnp5AR4C2Yvmj06jiC8RvpAo7pj6yLfVwzc",
+      "key": "e5bf6a384bfc2c0ad0ae26971b42d6fc",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/18f3c648405ec27a79011e02d98be68f4ea3882f11be9028ee98fac8b7d5c337.png"
+    },
+    {
+      "hash": "a110VvbzqRbNT4YD1Gf23C8skBsebzl0p_zPSqCW1I0",
+      "key": "a9f74ac58320cad09425acef1554acac",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6b5d7456f6f3a916cd4f8603d467f6dc2f2c901b1e6f3974a7fccf4aa096d48d.png"
+    },
+    {
+      "hash": "uE_m0bct4-S_4Rw4HX3qpQP4g3BuNf-o0465SbjTfqg",
+      "key": "1e3592c96841a3cd5b97bfb02f6f4fed",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/b84fe6d1b72de3e4bfe11c381d7deaa503f883706e35ffa8d38eb949b8d37ea8.png"
+    },
+    {
+      "hash": "otFI5V1OycjwT2kReLHzByLdlFfrN9aMrN0zBSo7E98",
+      "key": "7c40aff6f283b1da873eb7dff66dc270",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/a2d148e55d4ec9c8f04f691178b1f30722dd9457eb37d68cacdd33052a3b13df.png"
+    },
+    {
+      "hash": "TM7ymCpjtPnprSHUBjvqu4iQCOoaM2WOn2t6vTJY8Nw",
+      "key": "61f74ba4df4c3d28fd7fe3c9a148a991",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/4ccef2982a63b4f9e9ad21d4063beabb889008ea1a33658e9f6b7abd3258f0dc.png"
+    },
+    {
+      "hash": "a6NIE9b8o6Yg355FywUUfB_pb0BM4WFuVP9wmQxaU9I",
+      "key": "b2bbe9b26fcfb4111dbb75bd9d66aa06",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/6ba34813d6fca3a620df9e45cb05147c1fe96f404ce1616e54ff70990c5a53d2.png"
+    },
+    {
+      "hash": "Q0w8gA5RXqWhdIys2fRN4Ea1Xz81zvB-NCAg9eS5p9E",
+      "key": "6d4eeef7bdd8bda908cb4540683d1905",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/434c3c800e515ea5a1748cacd9f44de046b55f3f35cef07e342020f5e4b9a7d1.png"
+    },
+    {
+      "hash": "HQBQdy3_mu6vGzdTJSvV4wJ5lZNHl_PJ87yzPKLMU2g",
+      "key": "73bfdd28f5173a46394ec10a4d850681",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/1d0050772dff9aeeaf1b3753252bd5e3027995934797f3c9f3bcb33ca2cc5368.png"
+    },
+    {
+      "hash": "nWcLYmVSQBJFUg-sodg4zeIA1kxaxTrL_HG-gto9998",
+      "key": "675a0a0968578f8e12c80c154bb6e0ca",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/9d670b626552401245520faca1d838cde200d64c5ac53acbfc71be82da3df7df.png"
+    },
+    {
+      "hash": "2Rho_9nfTJMTQtG4uR9dGTq4RfF3LevnTC5QIr3b0RY",
+      "key": "ae3aac70aee7880b168e549dc3e10ba3",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/d91868ffd9df4c931342d1b8b91f5d193ab845f1772debe74c2e5022bddbd116.png"
+    },
+    {
+      "hash": "Y4v8NAGhynZhoxPjk2VItLA8TcdS_PA-dmwWU0jnXA8",
+      "key": "4e8351d5423534d95749c3b5c171b93a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/638bfc3401a1ca7661a313e3936548b4b03c4dc752fcf03e766c165348e75c0f.png"
+    },
+    {
+      "hash": "rS1cVyRFwT22hx9whk0AoOod-pj2dRrO56fJlGZFgC0",
+      "key": "fc399b6034ae220bca238179b5732e8a",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ad2d5c572445c13db6871f70864d00a0ea1dfa98f6751acee7a7c9946645802d.png"
+    },
+    {
+      "hash": "6-kXSimjsN7QsnHRuKOyCCfzv7YTzMknoKoU5A8Kamc",
+      "key": "f15066387ec076d73a3aa14ffde779dc",
+      "contentType": "image/png",
+      "fileExtension": ".png",
+      "url": "https://arcadenix-ota.github.io/ota.test/store/ebe9174a29a3b0ded0b271d1b8a3b20827f3bfb613ccc927a0aa14e40f0a6a67.png"
+    }
+  ],
+  "metadata": {},
+  "extra": {
+    "expoClient": {
+      "name": "my-expo-app",
+      "slug": "my-expo-app",
+      "version": "1.0.0",
+      "runtimeVersion": "1",
+      "updates": {
+        "enabled": true,
+        "url": "https://arcadenix-ota.github.io/ota.test/com.arcadenix.test/production/1/android/manifest.json",
+        "checkAutomatically": "ON_LOAD"
+      },
+      "scheme": "com.arcadenix.test",
+      "web": {
+        "favicon": "./assets/favicon.png"
+      },
+      "experiments": {
+        "tsconfigPaths": true
+      },
+      "plugins": [
+        "expo-web-browser",
+        "expo-screen-orientation",
+        "expo-font",
+        [
+          "react-native-google-mobile-ads",
+          {
+            "androidAppId": "ca-app-pub-5906182393306957~5739900770",
+            "iosAppId": "ca-app-pub-3940256099942544~3347511713"
+          }
+        ],
+        [
+          "expo-tracking-transparency",
+          {
+            "userTrackingPermission": "This identifier will be used to deliver personalized ads to you and measure ad performance."
+          }
+        ],
+        "@react-native-firebase/app",
+        "@react-native-firebase/crashlytics"
+      ],
+      "orientation": "default",
+      "initialOrientation": "DEFAULT",
+      "icon": "./assets/icon.png",
+      "userInterfaceStyle": "light",
+      "splash": {
+        "image": "./assets/splash.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true,
+        "bundleIdentifier": "com.anonymous.myexpoapp"
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/adaptive-icon.png",
+          "backgroundColor": "#ffffff"
+        },
+        "config": {
+          "googleMobileAdsAppId": "ca-app-pub-3940256099942544~3347511713"
+        },
+        "googleServicesFile": "./google-services.json",
+        "package": "com.arcadenix.test",
+        "orientation": "default"
+      },
+      "react-native": {
+        "android_task_executor_maximum_pool_size": 10,
+        "android_task_executor_keep_alive_seconds": 3
+      },
+      "extra": {
+        "adsEnabled": false,
+        "admob": {
+          "android": {
+            "appOpen": "ca-app-pub-3940256099942544/9257395921",
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712",
+            "rewarded": "ca-app-pub-3940256099942544/5224354917",
+            "rewardedInterstitial": "ca-app-pub-3940256099942544/5354046379"
+          },
+          "ios": {
+            "appOpen": "ca-app-pub-3940256099942544/5575463023",
+            "banner": "ca-app-pub-3940256099942544/2934735716",
+            "interstitial": "ca-app-pub-3940256099942544/4411468910",
+            "rewarded": "ca-app-pub-3940256099942544/1712485313",
+            "rewardedInterstitial": "ca-app-pub-3940256099942544/6978759866"
+          }
+        }
+      }
+    }
+  }
+}
