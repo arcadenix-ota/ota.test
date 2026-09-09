@@ -1,12 +1,12 @@
 {
-  "id": "71ed6b8a-7a7b-87cc-693b-fa980ac881fc",
-  "createdAt": "2026-09-09T06:47:44.517Z",
+  "id": "9d4b4b19-6e91-c5a1-b1c1-351f1da15f4a",
+  "createdAt": "2026-09-09T07:37:48.351Z",
   "runtimeVersion": "1",
   "launchAsset": {
-    "hash": "O34qrtHur-FvUja2lVqhUqBp_0cErK6JV_TVronQod4",
-    "key": "816dedb9c5ba1b9b0230b40e7ddd733d",
+    "hash": "tjDygGXySDWcuzQw75ff60D-Vu5uRxSdyQyBJx4IX_Q",
+    "key": "ec30f35f13ed69677c2d743a749d71ad",
     "contentType": "application/javascript",
-    "url": "https://arcadenix-ota.github.io/ota.test/store/3b7e2aaed1eeafe16f5236b6955aa152a069ff4704acae8957f4d5ae89d0a1de.js"
+    "url": "https://arcadenix-ota.github.io/ota.test/store/b630f28065f248359cbb3430ef97dfeb40fe56ee6e47149dc90c81271e085ff4.js"
   },
   "assets": [
     {
